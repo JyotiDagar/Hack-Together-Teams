@@ -1,6 +1,6 @@
 # Hack-Together-Teams
 
-We have developed a Microsoft Teams bot that offers three key features to enhance users' well-being and productivity.
+We have developed a Microsoft Teams bots(Boost10x and MyTaskReminder) that offers below key features to enhance users' well-being and productivity.
 
 
 1. Mindfulness Videos:
@@ -21,6 +21,9 @@ We have developed a Microsoft Teams bot that offers three key features to enhanc
    - Description: Our bot includes an image analyzer feature that allows users to gain insights about uploaded images. Whether it's a travel photo, a picture of a dish, or an unfamiliar object, the image analyzer provides valuable information to help users explore and understand the world through visual content.
    - Functionality: When a user uploads an image to the bot, the image analyzer component comes into play. Leveraging advanced image recognition and analysis techniques, the bot processes the image and generates a description of its contents. This description can include details such as landmarks, objects, animals, plants, and more. By receiving this information, users can discover new places, learn about different cultures, identify unknown objects, or simply satisfy their curiosity through the images they encounter.
 
+4. Task scheduler and Reminder
+   This is a notification bot which notifies a user by showing reminders on scheduled time for scheduled task which ould help user to increase productivity.
+
  
 
 Usage:
@@ -28,6 +31,7 @@ Usage:
 - To access mindfulness videos and promote relaxation, use the 'mindfulness' command in the Teams chat. 🕊 
 - To incorporate light exercises into your daily routine and maintain physical well-being, use the 'lightexercise' command. 🤸‍♂️
 - To gain insights about uploaded images and explore the world through visual content, simply upload the image to the bot. ℹ
+- To schedule tasks and get reminder, use command schedule task and follow the further conversation.
 
  
 
